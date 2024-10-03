@@ -1,0 +1,143 @@
+.link {
+    color:blue;
+    text-decoration:underline;
+    cursor: pointer;
+} 
+
+.network {
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    padding: 1px;
+}
+
+.perfil {
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.img {
+    border-radius: 100%;
+    height: 80px;
+    width: auto;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 1px solid black;
+}
+
+#textbarbie {
+    text-align: center;
+}
+
+.contenido1 {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+    left: 200px;
+    bottom: 202px; 
+    width: 1020px;
+    height: 100px;
+}
+
+.feed {
+    position: relative;
+    left: 200px;
+}
+
+.contenido2 {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding:10px;
+    width: 1020px;
+    height: 100px;
+    position:relative;
+    left: 200px;
+    bottom: 180px;
+}
+
+.contenido3 {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 1020px;
+    height: 100px;
+    position:relative;
+    left: 200px;
+    bottom: 160px;
+}
+
+#boton1{
+    background-color: yellow;
+    border: 1px;
+    border-radius: 3px;
+    width: 60px;
+    height: 25px;
+    cursor: pointer;
+    position:relative;
+    left: 900px;
+    bottom: 80px;
+}
+
+#boton2 {
+    background-color: yellow;
+    border: 1px;
+    border-radius: 3px;
+    width: 60px;
+    height: 25px;
+    cursor: pointer;
+    position:relative;
+    left: 900px;
+    bottom: 80px;
+}
+
+#boton3 {
+    background-color: yellow;
+    border: 1px;
+    border-radius: 3px;
+    width: 60px;
+    height: 25px;
+    cursor: pointer;
+    position:relative;
+    left: 900px;
+    bottom: 80px;
+}
+
+#contador1{
+    background-color: rgb(223, 219, 219);
+    width: 60px;
+    height: 20px;
+    padding: 1px;
+    text-align: center;
+    position: relative;
+    left: 800px;
+    bottom: 105px;
+}
+
+#contador2 {
+    background-color: rgb(223, 219, 219);
+    width: 60px;
+    height: 20px;
+    padding: 1px;
+    text-align: center;
+    position: relative;
+    left: 800px;
+    bottom: 105px;
+}
+
+#contador3 {
+    background-color: rgb(223, 219, 219);
+    width: 60px;
+    height: 20px;
+    padding: 1px;
+    text-align: center;
+    position: relative;
+    left: 800px;
+    bottom: 105px;
+}
+
+
